@@ -1,14 +1,20 @@
-package myInfo;
+package myLife;
 
-class Personal {
+class myCampusLife {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Name : Muhammad Iman Zulhakim B. Mohd Zulkhori");
-		System.out.println("No. Matrik :288430");
-		System.out.println("Course : Bachelor of Computer Science with Honors");
-		System.out.println("Address : No.364 Lrg Desa Makmur 11/3 Tmn Desa Makmur 09600 Lunas Kedah");
-		System.out.println("Father's Name : Mohd Zulkhori B. Wahab");
-		System.out.println("Mother's Name : Marliza	Bt. Zali");
-	}	
+		System.out.println("Saya bagun di awal pagi untuk Solat Subuh.");
+		System.out.println("Saya bungkus makanan pagi di kafe dan makan di bilik.");
+		System.out.println("Saya masuk ke kelas pada pukul 830 sehingga 1000 pagi.");
+		System.out.println("Kemudian, saya makan tgh hari dan berehat seketika sementara menunggu kelas seterusnya."); 
+		System.out.println("Pada pukul 1230 tgh hari saya meneruskan pembelajaran sehingga pkl 230 ptg.");
+		System.out.println("Setelah selesai kelas saya menunaikan Solat Zohor kemudian bersedia untuk kelas seterusnya.");
+		System.out.println("Pkl 400 ptg sehingga 530 ptg saya menghadiri kelas online.");
+		System.out.println("Selepas kelas selesai saya beristirehat seteleah melaksanakan Solat Asar.");
+		System.out.println("Pada waktu malamnya saya Solat Magrib dan makan malam.'.");
+		System.out.println("Selepas waktu Isya' saya melakukan pembelajaran kendiri beberapa jam. ");
+		System.out.println("Pada puluk 12 tgh malam saya tidur.");
+	}
+
 }
