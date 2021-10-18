@@ -1,0 +1,14 @@
+package myInfo;
+
+class Personal {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Name : Muhammad Iman Zulhakim B. Mohd Zulkhori");
+		System.out.println("No. Matrik :288430");
+		System.out.println("Course : Bachelor of Computer Science with Honors");
+		System.out.println("Address : No.364 Lrg Desa Makmur 11/3 Tmn Desa Makmur 09600 Lunas Kedah");
+		System.out.println("Father's Name : Mohd Zulkhori B. Wahab");
+		System.out.println("Mother's Name : Marliza	Bt. Zali");
+	}	
+}
